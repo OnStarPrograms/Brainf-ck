@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/onstar/Documents/BrnFuck/out/Debug",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/BrainFuck.dir/main.c.o -c /home/onstar/Documents/BrnFuck/main.c",
+  "file": "/home/onstar/Documents/BrnFuck/main.c",
+  "output": "CMakeFiles/BrainFuck.dir/main.c.o"
+}
+]
